@@ -3,3 +3,5 @@
 ### 2 Sept - 8 Sept
 [**Introduction**](https://github.com/shary777/comm7360/blob/master/materials/1%20Introduction-2019.pdf)   
 [**Relational Model**](https://github.com/shary777/comm7360/blob/master/materials/2%20relational%20model%20pages%201%20-%2033.pdf)
+### 9 Sept - 15 Sept
+[**Relational Model**](https://github.com/shary777/comm7360/blob/master/materials/2%20relational%20model.pdf)
