@@ -10,4 +10,6 @@
 [**In-class Exercise 1**](https://github.com/shary777/comm7360/blob/master/materials/exercise-basic%20sql-question.pdf)   
 [**In-class Exercise 1 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise-basic%20sql.pdf)   
 [**In-class Exercise 2**](https://github.com/shary777/comm7360/blob/master/materials/exercise%202%20question.pdf)   
-[**In-class Exercise 2 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise%202%20solution.pdf)
+[**In-class Exercise 2 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise%202%20solution.pdf)   
+### 30 Sept - 6 Oct
+[**Advanced SQL**](https://github.com/shary777/comm7360/blob/master/materials/4%20advanced%20SQL.pdf)
