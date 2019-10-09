@@ -15,3 +15,9 @@
 [**Advanced SQL**](https://github.com/shary777/comm7360/blob/master/materials/4%20advanced%20SQL.pdf)   
 [**In-class Exercise 3**](https://github.com/shary777/comm7360/blob/master/materials/exercise%203%20question.pdf)   
 [**In-class Exercise 3 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise%203%20solution.pdf)
+### 7 Oct - 13 Oct
+[**Lab1 SQL**](https://github.com/shary777/comm7360/blob/master/lab/lab1/tutorial-sql.pdf)
+[**assignment2_database.sql**](https://github.com/shary777/comm7360/blob/master/lab/lab1/assignment2_database.sql)
+## Download Area
+XAMPP for Windows https://www.apachefriends.org/xampp-files/7.3.9/xampp-windows-x64-7.3.9-0-VC15-installer.exe
+XAMPP for macOS https://www.apachefriends.org/xampp-files/7.3.9/xampp-osx-7.3.9-0-vm.dmg
