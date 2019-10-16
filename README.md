@@ -23,7 +23,8 @@
 **Laboratory 2 - SQLite & Python**   
 [**Instructions**](https://github.com/shary777/comm7360/blob/master/lab/lab2/lab2_instruction.pdf)   
 [**Tutorial**](https://github.com/shary777/comm7360/blob/master/lab/lab2/tutorial.pdf)   
-[Lab2 Material files](https://github.com/shary777/comm7360/raw/master/lab/lab2/Lab2Material.zip)
+[Lab2 Material files](https://github.com/shary777/comm7360/raw/master/lab/lab2/Lab2Material.zip)   
+[lab2.sql](https://github.com/shary777/comm7360/blob/master/lab/lab2/lab2.sql)
 
 ## Download Area
 XAMPP for Windows https://www.apachefriends.org/xampp-files/7.3.9/xampp-windows-x64-7.3.9-0-VC15-installer.exe   
