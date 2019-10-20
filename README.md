@@ -25,7 +25,7 @@
 [**Tutorial**](https://github.com/shary777/comm7360/blob/master/lab/lab2/tutorial.pdf)   
 [Lab2 Material files](https://github.com/shary777/comm7360/raw/master/lab/lab2/Lab2Material.zip)   
 [lab2.sql](https://github.com/shary777/comm7360/blob/master/lab/lab2/lab2.sql)
-
+[Solution](https://github.com/shary777/comm7360/blob/master/lab/lab2/FlightManagerSol.ipynb)
 ## Download Area
 XAMPP for Windows https://www.apachefriends.org/xampp-files/7.3.9/xampp-windows-x64-7.3.9-0-VC15-installer.exe   
 XAMPP for macOS https://www.apachefriends.org/xampp-files/7.3.9/xampp-osx-7.3.9-0-vm.dmg
