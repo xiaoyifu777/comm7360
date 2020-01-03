@@ -8,13 +8,13 @@
 ### 16 Sept - 29 Sept
 [**Basic SQL**](https://github.com/shary777/comm7360/blob/master/materials/3%20SQL.pdf)   
 [**In-class Exercise 1**](https://github.com/shary777/comm7360/blob/master/materials/exercise-basic%20sql-question.pdf)   
-[**In-class Exercise 1 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise-basic%20sql.pdf)   
+[**In-class Exercise 1 Solution**]()   
 [**In-class Exercise 2**](https://github.com/shary777/comm7360/blob/master/materials/exercise%202%20question.pdf)   
-[**In-class Exercise 2 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise%202%20solution.pdf)   
+[**In-class Exercise 2 Solution**]()   
 ### 30 Sept - 6 Oct
 [**Advanced SQL**](https://github.com/shary777/comm7360/blob/master/materials/4%20advanced%20SQL.pdf)   
 [**In-class Exercise 3**](https://github.com/shary777/comm7360/blob/master/materials/exercise%203%20question.pdf)   
-[**In-class Exercise 3 Solution**](https://github.com/shary777/comm7360/blob/master/materials/exercise%203%20solution.pdf)
+[**In-class Exercise 3 Solution**]()
 ### 7 Oct - 13 Oct
 **Laboratory 1 - SQL**   
 [**Tutorial**](https://github.com/shary777/comm7360/blob/master/lab/lab1/tutorial-sql.pdf)   
@@ -25,7 +25,7 @@
 [**Tutorial**](https://github.com/shary777/comm7360/blob/master/lab/lab2/tutorial.pdf)   
 [Lab2 Material files](https://github.com/shary777/comm7360/raw/master/lab/lab2/Lab2Material.zip)   
 [lab2.sql](https://github.com/shary777/comm7360/blob/master/lab/lab2/lab2.sql)   
-[Solution](https://github.com/shary777/comm7360/blob/master/lab/lab2/FlightManagerSol.ipynb)
+[Solution]()
 ## Download Area
 XAMPP for Windows https://www.apachefriends.org/xampp-files/7.3.9/xampp-windows-x64-7.3.9-0-VC15-installer.exe   
 XAMPP for macOS https://www.apachefriends.org/xampp-files/7.3.9/xampp-osx-7.3.9-0-vm.dmg
